@@ -1,3 +1,4 @@
+Hola, soy Carlos Hidalgo, bienvenido a mi GITHUB
 - 👋 Hi, I’m @chl00016
 - 👀 I’m interested in **Machine Learning**
 - 🌱 I’m currently learning the basics of **Machine Learning** with ANNs
