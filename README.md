@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chl00016
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning the basics of Machine Learning with ANN
+- 👀 I’m interested in **Machine Learning**
+- 🌱 I’m currently learning the basics of **Machine Learning** with ANN
 - 📚 Focused in my studying career
 
 <!---
