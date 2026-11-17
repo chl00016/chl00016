@@ -7,3 +7,4 @@
 chl00016/chl00016 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+Todos las cosas que podría hacer y no hago ...
